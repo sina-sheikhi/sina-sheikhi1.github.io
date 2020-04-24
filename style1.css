@@ -1,0 +1,26 @@
+body {
+    background-image: url(s1.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:5px yellow;
+    font-size: 90px;
+    color: yellow;
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 70px;
+}
+.btn-info {
+    margin-right: 5px;
+    color: yellow;
+    background-color: rgb(50, 127, 146);
+    font-weight: bold;
+}
+.btnvorod{
+    color: yellow;
+    background-color: rgb(50, 127, 146);
+    margin-right: 160px;
+    font-weight: bold;
+}
